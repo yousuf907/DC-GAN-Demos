@@ -1,1 +1,1 @@
-# DCGAN-Demos
+# DC-GAN-Demos
